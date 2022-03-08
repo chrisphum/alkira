@@ -1,6 +1,8 @@
 # Hi, I'm Chris (Please read the text below)
 ~~~~~~~~~~~~
-If there are specific things that the team would like me to implement before the interview please let me know
+If there are specific things that the team would like me
+
+to implement before the interview please let me know
 ~~~~~~~~~~~~
 ~~~~~~~~~~~~
 
