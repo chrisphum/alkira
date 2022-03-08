@@ -5,6 +5,7 @@ If there are specific things that the team would like me to implement before the
 
 To run: npm run start
 ~~~~~~~~~~~~
+~~~~~~~~~~~~
  
 Things I implemented: 
 
@@ -26,3 +27,4 @@ Things I did not:
 =Unit testing
 
 =Using Redux
+~~~~~~~~~~~~
