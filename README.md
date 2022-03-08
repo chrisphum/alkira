@@ -1,6 +1,7 @@
 # Hi, I'm Chris
-
+~~~~~~~~~~~~
 If there are specific things that the team would like me to implement before the interview please let me know
+~~~~~~~~~~~~
 ~~~~~~~~~~~~
 
 To run: npm run start
