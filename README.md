@@ -1,5 +1,5 @@
 # Hi, I'm Chris (Please read the text below)
-# Also checkout React iPhone app project: https://github.com/chrisphum/iPhoneAppForAlkira
+# Also checkout my React iPhone app project: https://github.com/chrisphum/iPhoneAppForAlkira
 # Video link for above^^: https://www.youtube.com/watch?v=1ft7Od9pDUw and 
 ~~~~~~~~~~~~
 
