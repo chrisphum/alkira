@@ -1,5 +1,13 @@
 # Hi, I'm Chris (Please read the text below)
+# Also checkout React iPhone app project: https://www.youtube.com/watch?v=1ft7Od9pDUw and https://github.com/chrisphum/iPhoneAppForAlkira
 ~~~~~~~~~~~~
+
+I have a video link for a person react project of mine: https://www.youtube.com/watch?v=1ft7Od9pDUw and https://github.com/chrisphum/iPhoneAppForAlkira
+
+The above ^^ personal project better shows my skills at React.
+
+
+
 Total time invested: about 6 hours
 
 If there are specific things that the team would like me
