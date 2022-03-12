@@ -3,6 +3,31 @@ import './App.css'
 import { DataContext, DisplayContext, PlayerContext } from "./App";
 
 function Search(){
+    
+    
+    
+    // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    //
+    //
+    // Hello! 
+    // Please checkout my React Native iPhone App!
+    // It is not complete, but it is a better showcase of my skills.
+    // Even if it is (currently) a little unorganized 
+    // ( it could defintely use more organized data structures)
+    // Soon I will apply to the Apple App Store
+
+    // Github link: https://github.com/chrisphum/iPhoneAppForAlkira
+    // Youtube demonstration: https://www.youtube.com/watch?v=1ft7Od9pDUw 
+    //
+    // Please also read the Readme.md on the github repo! Thanks for the 
+    // chance to interview at Alkira!
+    //
+    //
+    // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
 
     const [teamInfo, setTeamInfo] = useContext(DataContext);
     const [displayInfo, setDisplayInfo] = useContext(DisplayContext);
